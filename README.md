@@ -1,6 +1,6 @@
 # ranking-engine [![GPLv3 license](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/CodePeters/Pacman/blob/master/LICENSE)
 
-** A ranking engine for text search. Given a query and a set of articles, it returns N most relevant articles. 
+**A ranking engine for text search. Given a query and a set of articles, it returns N most relevant articles.** 
 
 ## Input
 The input required is a file ("file.txt") with the articles in json format:
